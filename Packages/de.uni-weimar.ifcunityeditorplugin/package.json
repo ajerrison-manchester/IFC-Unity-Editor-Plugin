@@ -1,0 +1,7 @@
+{
+  "name": "de.uni-weimar.ifcunityeditorplugin",
+  "version": "1.3.0",
+  "displayName": "IFC Unity Editor Plugin",
+  "description": "Directly import IFC files into the Unity editor with our plugin.",
+  "unity": "2022.3"
+}
