@@ -1,10 +1,8 @@
 {
-    "name": "de.uni-weimar.ifcunityeditorplugin.editor",
-    "rootNamespace": "de.uni-weimar.ifcunityeditorplugin.editor",
+    "name": "de.uni-weimar.ifcunityeditorplugin.ifc",
+    "rootNamespace": "de.uni-weimar.ifcunityeditorplugin.ifc",
     "references": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

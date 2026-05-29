@@ -10,7 +10,7 @@ using Xbim.Ifc;
 /// Handles the initialization ofter loading a project with an IFC file
 /// </summary>
 [InitializeOnLoad]
-internal class ModelInitializer : IDisposable
+public class ModelInitializer : IDisposable
 {
     /// <summary>
     /// static instance of an initializer
@@ -22,7 +22,7 @@ internal class ModelInitializer : IDisposable
         ModelInitializer.ActiveInitializer = new ModelInitializer();
     }
 
-    internal ModelInitializer()
+    public ModelInitializer()
     {
         EditorApplication.delayCall += this.DelayCallHandler;
     }
