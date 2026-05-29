@@ -12,7 +12,6 @@
 /Assembly-CSharp.csproj
 /Assembly-CSharp-Editor.csproj
 /IFC Unity Editor Plugin.sln
-*.meta
 /Assets/Editor/IfcConvert/IfcConvert-macos-64
 /Assets/Editor/IfcConvert/IfcConvert-unix-64
 /Assets/Editor/IfcConvert/IfcConvert-x32.exe
