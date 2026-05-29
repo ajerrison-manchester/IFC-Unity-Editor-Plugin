@@ -4,6 +4,9 @@
   "displayName": "IFC Unity Editor Plugin",
   "description": "Directly import IFC files into the Unity editor with our plugin.",
   "unity": "2022.3",
+  "documentationUrl": "https://github.com/ajerrison-manchester/IFC-Unity-Editor-Plugin/blob/update-to-upm/README.md",
+  "changelogUrl": "https://github.com/ajerrison-manchester/IFC-Unity-Editor-Plugin/blob/update-to-upm/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ajerrison-manchester/IFC-Unity-Editor-Plugin/blob/update-to-upm/LICENSE",
   "author": {
     "name": "Mathias Artus",
     "url": "https://github.com/Chair-Intelligent-Technical-Design/IFC-Unity-Editor-Plugin"
