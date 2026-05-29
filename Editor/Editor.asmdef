@@ -3,9 +3,7 @@
     "rootNamespace": "de.uni-weimar.ifcunityeditorplugin.editor",
     "references": [],
     "includePlatforms": [
-       
-        "Editor",
-  
+        "Editor"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
